@@ -1,0 +1,9 @@
+name: "ChainCommandAPI"
+main: net.earomc.cca.ChainCommandAPI
+version: "1.0"
+api-version: 1.8.8, 1.13
+author: "earomc"
+description: "API to ease the creation of hierarchically structured commands."
+prefix: "CCI"
+website: "https://github.com/earomc/cci"
+
